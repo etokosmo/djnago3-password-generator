@@ -5,7 +5,7 @@ This is a simple password generator
 ## Stack
 
 * Python3.10
-* Django3
+* Django4.0.3
 * HTML
 * CSS Bootstrap5.1.3
 
