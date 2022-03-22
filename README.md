@@ -24,3 +24,7 @@ source env/bin/activate
 pip install -r requirements.txt
 python manage.py runserver
 ```
+
+## Result
+
+<img src="https://github.com/etokosmo/djnago3-password-generator/blob/main/gpass.gif" width="100%">
